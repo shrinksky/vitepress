@@ -1,6 +1,6 @@
 ---
 # https://vitepress.dev/reference/default-theme-home-page
-layout: 首页
+layout: Home
 
 hero:
   name: "资源知识共享空间"
