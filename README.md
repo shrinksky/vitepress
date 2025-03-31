@@ -1,3 +1,4 @@
 # vitepress
 vitepress页面
-https://shrinksky.github.io/vitepress/
+
+<a href="https://shrinksky.github.io/vitepress" target="_blank" rel="noopener noreferrer">https://shrinksky.github.io/vitepress</a>
