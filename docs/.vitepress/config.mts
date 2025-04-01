@@ -19,6 +19,7 @@ export default defineConfig({
         text: '首页',
         link: '/',
         items: [
+          { text: '目录', link: '/list' },
           { text: '例子', link: '/markdown-examples' },
           { text: '例子2', link: '/api-examples' }
         ]
