@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   base: '/vitepress/',
-  head: [['link', { rel: 'icon', href: '/vitepress/favicon.ico' }]],
+  head: [['link', { rel: 'icon', href: '/vitepress/static/favicon.ico' }]],
   title: "资源知识共享空间",
   titleTemplate: ':title - Qingss',
   description: "A Place For Resource And Knowledge",
@@ -49,7 +49,7 @@ export default defineConfig({
       next: '下一页'
     },
 
-    logo: '/logo.svg',
+    logo: '/static/logo.svg',
 
 
   }
