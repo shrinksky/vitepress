@@ -7,7 +7,6 @@ export default defineConfig({
   title: "资源知识共享空间",
   titleTemplate: ':title - Qingss',
   description: "A Place For Resource And Knowledge",
-  assetsDir: 'static',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
