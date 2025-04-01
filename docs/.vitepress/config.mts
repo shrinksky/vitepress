@@ -33,10 +33,10 @@ export default defineConfig({
     ],
 
     lastUpdated: {
-      text: 'Updated at',
+      text: '最后更新于',
       formatOptions: {
-        dateStyle: 'full',
-        timeStyle: 'medium'
+        dateStyle: 'short',
+        timeStyle: 'short'
       }
     },
 
